@@ -1,0 +1,13 @@
+C:\Users\Sonu Sathyadas\Desktop\New folder\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Users\Sonu Sathyadas\Desktop\New folder\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\Sonu Sathyadas\Desktop\New folder\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\Sonu Sathyadas\Desktop\New folder\FirstApp\FirstApp\obj\Debug\FirstApp.csprojAssemblyReference.cache
+C:\Users\Sonu Sathyadas\Desktop\New folder\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Sonu Sathyadas\Desktop\New folder\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+C:\Users\Sonu Sathyadas\Desktop\New folder\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+E:\DotNet\SIR\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+E:\DotNet\SIR\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+E:\DotNet\SIR\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+E:\DotNet\SIR\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+E:\DotNet\SIR\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+E:\DotNet\SIR\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
